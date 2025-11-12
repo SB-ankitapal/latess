@@ -40,3 +40,11 @@ properties:
     type: integer
     x-stoplight:
       id: ttay8v3syd6hi
+  refffff:
+    $ref: 'stoplight://resources/overrides/YVJ4YPyrNto'
+    x-stoplight:
+      id: jb4fp3lteraye
+  dsfdf:
+    $ref: 'stoplight://resources/overrides/aUaqRV0nDGc'
+    x-stoplight:
+      id: 9ms7tr51zthcb
